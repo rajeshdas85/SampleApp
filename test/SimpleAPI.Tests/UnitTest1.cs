@@ -7,7 +7,6 @@ namespace SimpleAPI.Tests
     {
         [Fact]
         public void Test1()
-
         {
 
         }
